@@ -19,3 +19,12 @@
         </li> 
     </ul>
 </div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var url = window.location;
+        $('ul.sidebar-nav a[href="'+ url +'"]').parent().addClass('active');
+        $('ul.sidebar-nav a').filter(function() {
+             return this.href == url;
+        }).parent().addClass('active');
+    });
+</script> 

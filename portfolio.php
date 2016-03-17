@@ -2,33 +2,45 @@
 <?php require_once './head.php'; ?>
 
 <div class="round-border">
-    <h2 class="text-good-positioning">Scientific Calculator</h2>
-    <p>
-        Platform - C++, opneGL<br>
-        Description - A simple scientific calculator<br>
-        Occasion - Term project<br>
-        <a href="https://github.com/adorgoalp/Term-project-calculator" target="_blank">Repository</a>
-    </p>
+    <div class="left">
+        <h2 class="text-good-positioning">Scientific Calculator</h2>
+        <p>
+            Platform - C++, opneGL<br>
+            Description - A simple scientific calculator<br>
+            Occasion - Term project<br>
+            <a href="https://github.com/adorgoalp/Term-project-calculator" target="_blank">Repository</a>
+        </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/calc/main.JPG" alt="calculator">
+    </div>
     <div class="portfolio-pictures" id="sc">
-        <button class="btn btn-black" onclick="loadCalcSS()">Load screen shots</button>
+        <button class='btn btn-black' onclick='loadCalcSS()'>View screen shots</button>
     </div>
+
 </div>
 <div class="round-border">
-    <h2 class="text-good-positioning">RiceRocks</h2>
-    <p>
-        Platform - Python, code-sculptor open source web based python library<br>
-        Description - A classical space shooting game. 
-        Rocks pop up. Player controls a spaceship and fires
-        the rocks. On collision with rocks 3 times player dies.<br>
-        Occasion - Coursera.org online course final project<br>
-        Achievement - Secured full marks<br>
-        Play online - <a target="_blank" href="http://www.codeskulptor.org/#user27_ozqyJmhrQP_26.py">Play</a>
-    </p>
+    <div class="left">
+        <h2 class="text-good-positioning">RiceRocks</h2>
+        <p>
+            Platform - Python, code-sculptor open source web based python library<br>
+            Description - A classical space shooting game. 
+            Rocks pop up. Player controls a spaceship and fires
+            the rocks. On collision with rocks 3 times player dies.<br>
+            Occasion - Coursera.org online course final project<br>
+            Achievement - Secured full marks<br>
+            Play online - <a target="_blank" href="http://www.codeskulptor.org/#user27_ozqyJmhrQP_26.py">Play</a>
+        </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/rr/rr1.jpg" alt="Rice rocks">
+    </div>
     <div class="portfolio-pictures" id="rr">
-        <button class="btn btn-black" onclick="loadRiceRocksSS()">Load screen shots</button>
+        <button class="btn btn-black" onclick="loadRiceRocksSS()">View screen shots</button>
     </div>
 </div>
 <div class="round-border">
+    <div class="left">
     <h2 class="text-good-positioning">E-learning Software</h2>
     <p>
         Platform - Java (SE)<br>
@@ -38,8 +50,12 @@
         Achievement - Secured 95% marks<br>
         <a href="https://github.com/adorgoalp/KIDEL" target="_blank">Download</a>
     </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/kidel/this-is.jpg" alt="kidel">
+    </div>
     <div class="portfolio-pictures" id="kidel">
-        <button class="btn btn-black" onclick="loadKidelSS()">Load screen shots</button>
+        <button class="btn btn-black" onclick="loadKidelSS()">View screen shots</button>
     </div>
 </div>
 <div class="round-border">
@@ -74,6 +90,7 @@
     </p>
 </div>
 <div class="round-border">
+    <div class="left">
     <h2 class="text-good-positioning">The Muslim Show</h2>
     <p>
         Platform - Android, Parse<br>
@@ -83,11 +100,16 @@
         Comment - Unpublished due to technical issue<br>
         <a href="https://github.com/adorgoalp/The-Muslim-Show-Android" target="_blank">Repositiry</a>
     </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/tms/destination.jpg" alt="the muslim show">
+    </div>
     <div class="portfolio-pictures" id="tms">
-        <button class="btn btn-black" onclick="loadTheMuslimShowSS()">Load screen shots</button>
+        <button class="btn btn-black" onclick="loadTheMuslimShowSS()">View screen shots</button>
     </div>
 </div>
 <div class="round-border">
+    <div class="left">
     <h2 class="text-good-positioning">Unbeatable Tic Tac Toe</h2>
     <p>
         Platform - Android<br>
@@ -100,11 +122,16 @@
         later which lets user win sometime by giving random moves.<br>
         <a href="https://github.com/adorgoalp/TicTacToe-Android" target="_blank">Repository</a>
     </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/ttt/ai-won.jpg" alt="tick tac toe">
+    </div>
     <div class="portfolio-pictures" id="uttt">
-        <button class="btn btn-black" onclick="loadUnbeatableTicTacToeSS()">Load screen shots</button>
+        <button class="btn btn-black" onclick="loadUnbeatableTicTacToeSS()">View screen shots</button>
     </div>
 </div>
 <div class="round-border">
+    <div class="left">
     <h2 class="text-good-positioning">Taj Mahal</h2>
     <p>
         Platform - c++, openGL<br>
@@ -112,11 +139,16 @@
         Occasion - University project<br>
         <a href="https://bitbucket.org/adorgolap/tajmohol" target="_blank">Repository</a>
     </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/taj/main.jpg" alt="taj mahal">
+    </div>
     <div class="portfolio-pictures" id="taj">
-        <button class="btn btn-black" onclick="loadTajMahalSS()">Load screen shots</button>
+        <button class="btn btn-black" onclick="loadTajMahalSS()">View screen shots</button>
     </div>
 </div>
 <div class="round-border">
+    <div class="left">
     <h2 class="text-good-positioning">Ray Tracer</h2>
     <p>
         Platform - c++, openGL<br>
@@ -125,8 +157,12 @@
         Occasion - University project<br>
         <a href="https://bitbucket.org/adorgolap/ray-tracer" target="_blank">Repository</a>
     </p>
+    </div>
+    <div class="right">
+        <img class="img-circle-small" src="img/ray/output.jpg" alt="ray tracer">
+    </div>
     <div class="portfolio-pictures" id="ray">
-        <button class="btn btn-black" onclick="loadRayTracerSS()">Load screen shots</button>
+        <button class="btn btn-black" onclick="loadRayTracerSS()">View screen shots</button>
     </div>
 </div>
 <?php require_once './foot.php'; ?>

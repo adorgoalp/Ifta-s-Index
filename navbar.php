@@ -1,7 +1,7 @@
 <div id="sidebar-wrapper">
     <ul class="sidebar-nav" id="navigation">
         <li class="fill" style="text-indent: 0px;" >
-            <img src="img/Ifta-site-icon-large.jpg"  style="max-height: 100%;max-width: 100%" alt="ifta">
+            <img src="img/Ifta-site-icon.jpg"  style="max-height: 100%;max-width: 100%" alt="ifta">
         </li>
         <li class="sidebar-brand" >
             <a href="index.php">

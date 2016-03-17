@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php require_once './head.php'; ?>
 <div class="round-border centering">
-    <img style="border-radius: 50%; width: 200px;height: 200px;" src="img/ifta-old.jpg" />
+    <img class="img-circle" src="img/ifta-old.jpg" />
     <h1>Hi. I am Ifta. Welcome to my site.</h1>
 </div>
 <div class="round-border">

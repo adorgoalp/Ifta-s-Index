@@ -34,7 +34,7 @@ p{
     background: #122b40;
 }
 .round-border{
-    border: 1px #cccccc;
+    border: 2px #cccccc;
     border-style: solid;
     border-radius: 50px;
     padding: 20px 0px;
@@ -74,4 +74,27 @@ span{
     background-color: #555;
     color: #fff;
     border-color: #050505;
+    margin-top: 10px;
+}
+.img-circle{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border: 5px #ffffff solid;
+}
+.img-circle-small{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px #ffffff solid;
+}
+.left{
+    max-width: 70%;
+    overflow: visible;
+    float: left;
+}
+.right{
+    overflow: no-content;
+    text-align: right;
+    margin-right: 20px;
 }

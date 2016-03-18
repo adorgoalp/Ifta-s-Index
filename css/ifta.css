@@ -1,5 +1,6 @@
 body{
-    background-color: #23282D;
+    background-image: url(../img/side.jpg);
+    background-repeat: repeat;
     color: #cccccc;
 }
 div h1,h2,h3,h4,h5,h6{
@@ -30,8 +31,8 @@ p{
     padding-right: 20px;
 }
 ::selection{
-    color: #c9e2b3;
-    background: #122b40;
+    color: #000;
+    background: #fff;
 }
 .round-border{
     border: 2px #cccccc;
@@ -39,6 +40,7 @@ p{
     border-radius: 50px;
     padding: 20px 0px;
     margin: 20px 0px;
+    background-color: rgba(0,0,0,0.5);
 }
 .centering{
     text-align: center;
@@ -57,7 +59,7 @@ hr{
     font-size: x-large;
 }
 span{
-    color: #ccff99;
+    color: #6883f6;
 }
 .portfolio-pictures{
     display: inline-block;
@@ -71,7 +73,7 @@ span{
     border: 4px solid #555;
 }
 .btn-black{
-    background-color: #555;
+    background-color: #6883f6;
     color: #fff;
     border-color: #050505;
     margin-top: 10px;

@@ -3,7 +3,7 @@
 <div class="round-border">
     <h2 class="text-good-positioning">Ifta Noor Mahmood</h2>
     <i style="font-size: initial; padding-left: 20px;">
-        <a style="color: #ccff99;" href="mailto:adorgolap@gmail.com" target="_top">adorgolap@gmail.com</a>
+        <a style="color: #6883f6;" href="mailto:adorgolap@gmail.com" target="_top">adorgolap@gmail.com</a>
     </i>
     <p>
         Phone: +88-<span>01520-10-34-75</span>

@@ -5,40 +5,40 @@
 
     <a class="jumper" href="#scienCalc">
         <img class="img-circle-small" src="img/calc/main.JPG" alt="calculator"><br>
-        Scientific Calculator
+        <h5>Scientific Calculator</h5>
     </a>
     <a class="jumper" href="#riceRocks">
         <img class="img-circle-small" src="img/rr/rr1.jpg" alt="Rice rocks"><br>
-        Rice Rocks
+        <h5>Rice Rocks</h5>
     </a>
     <a class="jumper" href="#kidelDiv">
         <img class="img-circle-small" src="img/kidel/this-is.jpg" alt="kidel"><br>
-        Kidel
+        <h5>Kidel</h5>
     </a>
     <a class="jumper" href="#buetAcaDiv">
         <img class="img-circle-small" src="img/buetAca.jpg" alt="BUET AMS"><br>
-        BUET Academic Management System
+        <h5>BUET Academic Management System</h5>
     </a>
     <a class="jumper" href="#autiDiv">
         <img class="img-circle-small" src="img/auti-aid.jpg" alt="Auti Aid"><br>
-        Auti Aid
+        <h5>Auti Aid</h5>
     </a>
     <div class="clearfix"></div>
     <a class="jumper" href="#tmsDiv">
         <img class="img-circle-small" src="img/tms/destination.jpg" alt="the muslim show"><br>
-        The Muslim Show
+        <h5>The Muslim Show</h5>
     </a>
     <a class="jumper" href="#utttDiv">
         <img class="img-circle-small" src="img/ttt/ai-won.jpg" alt="tick tac toe"><br>
-        Unbeatable Tic Tac Toe
+        <h5>Unbeatable Tic Tac Toe</h5>
     </a>
     <a class="jumper" href="#tajDiv">
         <img class="img-circle-small" src="img/taj/main.jpg" alt="taj mahal"><br>
-        Taj Mahal
+        <h5>Taj Mahal</h5>
     </a>
     <a class="jumper" href="#rayDiv">
         <img class="img-circle-small" src="img/ray/output.jpg" alt="ray tracer"><br>
-        Ray Tracer
+        <h5>Ray Tracer</h5>
     </a>
 </div>
 <div class="round-border" id="scienCalc">

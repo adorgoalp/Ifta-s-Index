@@ -13,7 +13,7 @@
         I am a Muslim from Bangladesh.
     </p>
     <p>
-        In professional life I am a computer engineer. Basically I work on mobile and web applications.
+        In professional life I am a <span>Computer Engineer</span>. Basically I work on mobile and web applications.
     </p>
     <hr>
     <p class="quotes">

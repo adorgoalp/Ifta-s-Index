@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/side.jpg);
+    background-image: url(../img/abg1.png);
     background-repeat: repeat;
     color: #cccccc;
 }
@@ -41,6 +41,7 @@ p{
     padding: 20px 0px;
     margin: 20px 0px;
     background-color: rgba(0,0,0,0.5);
+    overflow: auto;
 }
 .centering{
     text-align: center;
@@ -49,8 +50,7 @@ p{
     text-indent: 20px;
 }
 hr{
-    width: 95%; 
-    margin: 50px auto 30px auto;
+    width: 95%;
 }
 .quotes{
     font-family: cursive;
@@ -62,7 +62,7 @@ span{
     color: #6883f6;
 }
 .portfolio-pictures{
-    display: inline-block;
+    display: none;
     width: 100%;
     padding: 10px;
     text-align: center;
@@ -80,23 +80,43 @@ span{
 }
 .img-circle{
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border: 5px #ffffff solid;
 }
 .img-circle-small{
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
     border: 5px #ffffff solid;
+}
+.left-right-parent{
+    overflow: auto;
 }
 .left{
     max-width: 70%;
     overflow: visible;
     float: left;
+    margin-bottom: 10px;
 }
 .right{
     overflow: no-content;
     text-align: right;
     margin-right: 20px;
+    margin-bottom: 10px;
+    float: right;
+    margin-right: 20px;
+}
+.jumper{
+    text-align: center;
+    box-sizing: border-box;
+    width: 20%;
+    float: left;
+    margin-bottom: 20px;
+}
+.list-style-tick{
+    list-style-image: url(../img/tick.png);
+}
+.list-style-box{
+    list-style-image: url(../img/box.png);
 }

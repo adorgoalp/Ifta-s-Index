@@ -31,9 +31,9 @@
     <p>
         I have the following technical knowledge.
     </p>
-    <ul>
+    <ul class="list-style-box">
         <li>Programming language
-            <ul>
+            <ul class="list-style-tick">
                 <li>C </li>
                 <li>C++ </li>
                 <li>Java </li>
@@ -45,7 +45,7 @@
             </ul>
         </li>
         <li>Web technology
-            <ul>
+            <ul class="list-style-tick">
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>PHP</li>
@@ -56,7 +56,7 @@
             </ul>
         </li>
         <li>Database
-            <ul>
+            <ul class="list-style-tick">
                 <li>ORACLE</li>
                 <li>MySQL</li>
                 <li>Postgres</li>
@@ -66,13 +66,13 @@
             </ul>
         </li>
         <li>Mobile technology
-            <ul>
+            <ul class="list-style-tick">
                 <li>Android (Java)</li>
                 <li>iOS (Swift)</li>
             </ul>
         </li>
         <li>Basic computer skills
-            <ul>
+            <ul class="list-style-tick">
                 <li>Adobe Photoshop</li>
                 <li>Adobe Flash</li>
                 <li>Microsoft Word</li>

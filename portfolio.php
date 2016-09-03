@@ -144,7 +144,8 @@
         Helps children learn through playing.<br>
         Occasion - Term project<br>
         Achievement - Placed in the best 10 projects among 54 team<br>
-        Comment - Worked in team of two
+        Comment - Worked in team of two<br>
+        My roll - System designer
         <br>
         <a href="#top" class="jumper" style="width: auto; text-align: left;">Back to top</a>
     </p>
@@ -159,7 +160,8 @@
         them. Bangla rhyme for joyful time passing.<br>
         Occasion - Code Hub competition by HEQAP<br>
         Achievement - Placed in the best 7 projects among 60 team<br>
-        Comment - Worked in team of three
+        Comment - Worked in team of three<br>
+        My roll- I gave the idea and developed some games suitable for autistic children 
         <br>
         <a href="#top" class="jumper" style="width: auto; text-align: left;">Back to top</a>
     </p>
@@ -202,7 +204,7 @@
                 Platform - Android<br>
                 Description - A Tic tac toe game with unbeatable AI.<br>
                 Occasion - Hobby<br>
-                Achievements - 82K installs in Google play store.<br>
+                Achievements - 130K installs in Google play store.<br>
                 Comment - Users became very angry when they failed to win
                 anyway. So they leave 1 star rating to teach me a good
                 lesson. To satisfy them I added a option called 'Let me win' 

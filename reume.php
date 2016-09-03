@@ -31,56 +31,72 @@
     <p>
         I have the following technical knowledge.
     </p>
-    <ul class="list-style-box">
-        <li>Programming language
-            <ul class="list-style-tick">
-                <li>C </li>
-                <li>C++ </li>
-                <li>Java </li>
-                <li>PHP </li>
-                <li>Python </li>
-                <li>Swift </li>
-                <li>Intel 8086 assembly </li>
-                <li>MIPS 32 assembly </li>
+    <div class="left-right-parent">
+        <div class="left" style="margin: 0; width: 49%;;">
+            <ul class="list-style-box">
+                <li>Programming language
+                    <ul class="list-style-tick">
+                        <li>Java (Expert)</li>
+                        <li>C (Expert)</li>
+                        <li>C++ (Good)</li>
+                        <li>PHP (Prior experience)</li>
+                        <li>Python (Prior experience)</li>
+                        <li>Swift (Prior experience)</li>
+                        <li>Intel 8086 assembly (Prior experience)</li>
+                        <li>MIPS 32 assembly (Prior experience)</li>
+                    </ul>
+                </li>
+                <li>Mobile technology
+                    <ul class="list-style-tick">
+                        <li>Android on Java (Expert) </li>
+                        <li>iOS on Swift (Prior experience)</li>
+                    </ul>
+                </li>
+                <li>Cloud Technology
+                    <ul class="list-style-tick">
+                        <li>Parse</li>
+                        <li>Parse Server</li>
+                        <li>Back4App</li>
+                        <li>Heroku</li>
+                        <li>Backendless</li>
+                    </ul>
+                </li>
             </ul>
-        </li>
-        <li>Web technology
-            <ul class="list-style-tick">
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>PHP</li>
-                <li>Java Script</li>
-                <li>Bootstrap</li>
-                <li>Pure CSS</li>
-                <li>Google Chart</li>
+        </div>
+        <div class="right" style="text-align: left; width: 49%;margin: 0;">
+            <ul class="list-style-box table">
+                <li>Web technology
+                    <ul class="list-style-tick">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>PHP</li>
+                        <li>Java Script</li>
+                        <li>Bootstrap</li>
+                        <li>Pure CSS</li>
+                        <li>Google Chart</li>
+                    </ul>
+                </li>
+                <li>Database
+                    <ul class="list-style-tick">
+                        <li>ORACLE</li>
+                        <li>MySQL</li>
+                        <li>Postgres</li>
+                        <li>SqLite</li>
+                    </ul>
+                </li>
+                <li>Basic computer skills
+                    <ul class="list-style-tick">
+                        <li>Adobe Photoshop</li>
+                        <li>Adobe Flash</li>
+                        <li>Microsoft Word</li>
+                        <li>Microsoft Power Point</li>
+                        <li>Microsoft Excel</li>
+                    </ul>
+                </li>
             </ul>
-        </li>
-        <li>Database
-            <ul class="list-style-tick">
-                <li>ORACLE</li>
-                <li>MySQL</li>
-                <li>Postgres</li>
-                <li>SqLite</li>
-                <li>Backendless</li>
-                <li>Parse</li>
-            </ul>
-        </li>
-        <li>Mobile technology
-            <ul class="list-style-tick">
-                <li>Android (Java)</li>
-                <li>iOS (Swift)</li>
-            </ul>
-        </li>
-        <li>Basic computer skills
-            <ul class="list-style-tick">
-                <li>Adobe Photoshop</li>
-                <li>Adobe Flash</li>
-                <li>Microsoft Word</li>
-                <li>Microsoft Power Point</li>
-                <li>Microsoft Excel</li>
-            </ul>
-        </li>
-    </ul>
+        </div>
+    </div>
+
     <h2 class="text-good-positioning">Professional Strength</h2>
     <p>
         I am a quick learner. I think, I am a good motivator 

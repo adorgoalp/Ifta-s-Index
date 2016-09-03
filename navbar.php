@@ -1,3 +1,4 @@
+<script src="js/jQuery.js"></script>
 <div id="sidebar-wrapper">
     <ul class="sidebar-nav" id="navigation">
         <li class="fill" style="text-indent: 0px;" >
@@ -22,9 +23,9 @@
 <script type="text/javascript">
     $(document).ready(function () {
         var url = window.location;
-        $('ul.sidebar-nav a[href="'+ url +'"]').parent().addClass('active');
-        $('ul.sidebar-nav a').filter(function() {
-             return this.href == url;
+        $('ul.sidebar-nav a[href="' + url + '"]').parent().addClass('active');
+        $('ul.sidebar-nav a').filter(function () {
+            return this.href == url;
         }).parent().addClass('active');
     });
 </script> 

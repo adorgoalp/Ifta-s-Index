@@ -32,6 +32,10 @@
         <img class="img-circle-small" src="img/ttt/ai-won.jpg" alt="tick tac toe"><br>
         <h5>Unbeatable Tic Tac Toe</h5>
     </a>
+    <a class="jumper" href="#hajjDiv">
+        <img class="img-circle-small" src="img/hajj/menu.png" alt="Macca Madina Tours"><br>
+        <h5>Macca Madina Tours and Travels</h5>
+    </a>
     <a class="jumper" href="#tajDiv">
         <img class="img-circle-small" src="img/taj/main.jpg" alt="taj mahal"><br>
         <h5>Taj Mahal</h5>
@@ -40,6 +44,7 @@
         <img class="img-circle-small" src="img/ray/output.jpg" alt="ray tracer"><br>
         <h5>Ray Tracer</h5>
     </a>
+     
 </div>
 <div class="round-border" id="scienCalc">
     <div class="left-right-parent">
@@ -209,7 +214,9 @@
                 anyway. So they leave 1 star rating to teach me a good
                 lesson. To satisfy them I added a option called 'Let me win' 
                 later which lets user win sometime by giving random moves.<br>
-                <a href="https://github.com/adorgoalp/TicTacToe-Android" target="_blank">Repository</a>
+                <a href="https://github.com/adorgoalp/TicTacToe-Android" target="_blank">Repository</a><br>
+                <a href="https://play.google.com/store/apps/details?id=com.adorgolap.unbeatabletictactoe"
+                   target="_blank"><img src="img/play.png" style="width: 30%; height: 30%;"/></a>
                 <br>
                 <a href="#top" class="jumper" style="width: auto; text-align: left;">Back to top</a>
             </p>
@@ -227,6 +234,36 @@
         <img src='img/ttt/main.jpg'>
         <img src='img/ttt/ai-won.jpg'>
         <img src='img/ttt/blank.jpg'>
+    </div>
+</div>
+<div class="round-border" id="hajjDiv">
+    <div class="left-right-parent">
+        <div class="left">
+            <h2 class="text-good-positioning">Macca Madina Tours and Travel</h2>
+            <p>
+                Platform - Android<br>
+                Description - A guide for Hajj and Umrah Pilgrimage. The guideline changes
+                depending on the gender and the intention of the Hajj.<br>
+                Occasion - Hobby<br>
+                <a href="https://play.google.com/store/apps/details?id=com.adorgolap.myhajjdays" 
+                   target="_blank"><img src="img/play.png" style="width: 30%; height: 30%;"/></a>
+                <br>
+                <a href="#top" class="jumper" style="width: auto; text-align: left;">Back to top</a>
+            </p>
+            <div class="clearfix"></div>
+            <p>
+                 Screen Shots - <a id="hajjSSB">View</a>
+            </p>
+        </div>
+        <div class="right">
+            <img class="img-circle-small" src="img/hajj/menu.png" alt="tick tac toe">
+        </div>
+    </div>
+    <div class="portfolio-pictures" id="hajj">
+        <img src='img/hajj/menu.png'>
+        <img src='img/hajj/journeyHedayet.png'>
+        <img src='img/hajj/myHajj.png'>
+        <img src='img/hajj/talbiyah.png'>
     </div>
 </div>
 <div class="round-border" id="tajDiv">

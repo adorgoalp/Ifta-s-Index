@@ -41,6 +41,12 @@ $(document).ready(function () {
             return text === "View" ? "Hide" : "View";
         });
     });
+    $("#hajjSSB").click(function () {
+        $("#hajj").toggle(1000);
+        $(this).text(function (i, text) {
+            return text === "View" ? "Hide" : "View";
+        });
+    });
     $(document).ready(function () {
         $(".jumper").on("click", function (e) {
 

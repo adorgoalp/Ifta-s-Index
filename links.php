@@ -14,8 +14,11 @@
     <h2 class="text-good-positioning">Other</h2>
     <p>
         <a href="http://stackoverflow.com/users/3467146/ifta" target="_blank">Stackoverflow</a><br>
-        <a href="https://www.upwork.com/freelancers/~0176477177c81aa578" target="_blank">Upwork</a><br>
+
         <a href="https://www.linkedin.com/in/iftanoor" target="_blank">LinkedIn</a>
+    </p>
+    <h2 class="text-good-positioning">Download CV</h2>
+    <p>You can download my CV from this <a  target="_blank" href="files/ifta-CV.pdf">link</a>.
     </p>
     <h2 class="text-good-positioning">This Project</h2>
     <p>
